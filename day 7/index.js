@@ -88,6 +88,7 @@ function matchGrade(scores) {
 
 }
 
+
 function displayGrade(grade) {
   console.log('this person grade is' + grade)
 }
@@ -109,4 +110,10 @@ this person grade is A
 
 // for (let i = 0; i <= 5; i++) {
 //   add(5, i);
+// }
+
+// function ad() {
+//   for (let i = 0; i <= 5; i++) {
+//     console.log(i);
+//   }
 // }
